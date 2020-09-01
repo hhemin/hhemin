@@ -2,7 +2,7 @@
 
 ### About me
 
--  👨‍💻  web前端开发(Vue,微信小程序)，目前还在校中
+-  👨‍💻  web前端开发(Vue,微信小程序)，⛽️加油
 -  📫 联系我: heminfind@aliyun.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hhemin)](https://github.com/hhemin/PlayTime)
